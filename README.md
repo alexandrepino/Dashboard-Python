@@ -1,4 +1,4 @@
-# Montando Dashboards como a Bilioteca Dash do Python
+# Montando Dashboards com a Bilioteca Dash do Python
 
 
 
