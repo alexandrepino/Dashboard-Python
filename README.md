@@ -3,6 +3,6 @@
 
 
 ### Dashboard do arquivo 'dashboard-loja.ipynb':
-![lojas](https://user-images.githubusercontent.com/60200989/158254726-ef937079-38e2-4a0b-865c-135a8eb5fc16.png)
+![lojadash](https://user-images.githubusercontent.com/60200989/162440945-3c487444-e3a8-4063-9d8f-428673ac1804.png)
 ### Dashboard do arquivo 'dashboard-linode.ipynb'
 ![linode](https://user-images.githubusercontent.com/60200989/162439569-718bec87-bf47-46b4-a90b-ab16957b756a.png)
