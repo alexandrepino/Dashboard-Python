@@ -9,4 +9,4 @@
 ### Dashboard do arquivo 'Vendas-carro-pais.ipynb'
 ![Screenshot 2022-04-29 at 11-25-08 Dashboard](https://user-images.githubusercontent.com/60200989/165963764-74977306-cbb9-4ec2-9ba1-8a79e054ecd0.png)
 ### Dashboard do arquivo 'valor-açoes-vacina'
-![Screenshot 2022-04-29 at 11-25-08 Dashboard](https://user-images.githubusercontent.com/60200989/166453146-bfdf076e-d977-402e-ba23-4302837c49a5.png)
+![Screenshot 2022-05-03 at 09-31-28 Dash](https://user-images.githubusercontent.com/60200989/166453349-53412ab8-d845-4714-9fc1-707ca66277dd.png)
